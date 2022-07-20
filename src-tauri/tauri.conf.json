@@ -55,11 +55,14 @@
     },
     "windows": [
       {
-        "fullscreen": false,
-        "height": 600,
-        "resizable": true,
-        "title": "Connection",
-        "width": 800
+        "title": "登录",
+        "label": "login",
+        "width": 430,
+        "height": 330,
+        "center": true,
+        "resizable": false,
+        "decorations": false,
+        "theme": "Dark"
       }
     ]
   }

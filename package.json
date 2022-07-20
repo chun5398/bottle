@@ -1,5 +1,5 @@
 {
-  "name": "Bottle",
+  "name": "bottle",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -10,8 +10,11 @@
   },
   "dependencies": {
     "@tauri-apps/api": "^1.0.1",
+    "axios": "^0.27.2",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-router": "^6.3.0",
+    "react-router-dom": "^6.3.0"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.0.0",
